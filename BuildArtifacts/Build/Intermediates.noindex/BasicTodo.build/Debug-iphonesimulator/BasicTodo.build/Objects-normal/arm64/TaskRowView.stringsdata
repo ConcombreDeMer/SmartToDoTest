@@ -1,0 +1,32 @@
+{
+  "source": "/Users/yanis/Code/IA testing/BasicTodo/Views/Components/TaskRowView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Completed",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pending",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

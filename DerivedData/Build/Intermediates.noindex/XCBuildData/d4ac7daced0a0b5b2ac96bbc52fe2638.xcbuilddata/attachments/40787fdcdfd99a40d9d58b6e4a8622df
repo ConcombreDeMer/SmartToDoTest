@@ -1,0 +1,15 @@
+/Users/yanis/Code/IA\ testing/BasicTodo/BasicTodoApp.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/AppContainer.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Models/TaskItem.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Repositories/TaskRepository.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Repositories/JSONTaskRepository.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/UseCases/TaskManaging.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/UseCases/DefaultTaskService.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Services/Assistant/TaskAssistantServing.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Services/Assistant/NaturalLanguageTaskInterpreter.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/ViewModels/TaskListViewModel.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Views/TaskListView.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Views/Components/TaskRowView.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Views/Components/TaskComposerView.swift
+/Users/yanis/Code/IA\ testing/BasicTodo/Views/Components/TaskEditorSheet.swift
+/Users/yanis/Code/IA\ testing/DerivedData/Build/Intermediates.noindex/BasicTodo.build/Debug-iphoneos/BasicTodo.build/DerivedSources/GeneratedAssetSymbols.swift

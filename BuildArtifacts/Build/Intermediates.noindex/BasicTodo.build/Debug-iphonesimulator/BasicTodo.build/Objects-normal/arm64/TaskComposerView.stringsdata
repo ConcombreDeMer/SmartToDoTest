@@ -1,0 +1,16 @@
+{
+  "source": "/Users/yanis/Code/IA testing/BasicTodo/Views/Components/TaskComposerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add a new task",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 10
+        }
+      }
+    ]
+  },
+  "version": 1
+}

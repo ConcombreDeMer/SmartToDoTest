@@ -1,0 +1,179 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodo-primary.dia",
+    "emit-module-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodo-primary-emit-module.dia",
+    "pch" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodo-primary.swiftdeps"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/AppContainer.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AppContainer~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/BasicTodoApp.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/BasicTodoApp~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Models/ChatMessage.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/ChatMessage~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Models/TaskItem.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskItem~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Repositories/JSONTaskRepository.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/JSONTaskRepository~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Repositories/TaskRepository.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRepository~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Services/Assistant/TaskAssistantService.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskAssistantService~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Services/Speech/LocalSpeechTranscriptionService.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/LocalSpeechTranscriptionService~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/UseCases/DefaultTaskService.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/DefaultTaskService~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/UseCases/TaskManaging.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskManaging~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/ViewModels/AIChatViewModel.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatViewModel~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/ViewModels/TaskListViewModel.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListViewModel~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Views/AIChatView.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/AIChatView~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Views/Components/TaskComposerView.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskComposerView~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Views/Components/TaskEditorSheet.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskEditorSheet~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Views/Components/TaskRowView.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskRowView~partial.swiftmodule"
+  },
+  "/Users/yanis/Code/IA testing/BasicTodo/Views/TaskListView.swift" : {
+    "const-values" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.swiftconstvalues",
+    "dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.d",
+    "diagnostics" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.dia",
+    "index-unit-output-path" : "/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.o",
+    "llvm-bc" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.bc",
+    "object" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.o",
+    "swift-dependencies" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView.swiftdeps",
+    "swiftmodule" : "/Users/yanis/Code/IA testing/BuildArtifacts/Build/Intermediates.noindex/BasicTodo.build/Debug-iphonesimulator/BasicTodo.build/Objects-normal/arm64/TaskListView~partial.swiftmodule"
+  }
+}
